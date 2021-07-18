@@ -6,24 +6,15 @@
 - Trying to start writing on my own website, [erickowicaksono.com](https://erickowicaksono.com/).
 #### Contact
 
-<div style="display: flex;">
-    <div style="margin:0 8px;">
-        <a href="https://www.linkedin.com/in/erickowicaksono/">
-            <img src="./assets/linkedin-logo.svg" width="32">
-        </a>
-    </div>
-    <div style="margin:0 8px;">
-        <a href="https://t.me/erickow">
-            <img src="./assets/telegram-logo.svg" width="32">
-        </a>
-    </div>
-    <div style="margin:0 8px;">
-        <a href="mailto::ericko.wicaksono@gmail.com">
-            <img src="./assets/gmail-logo.svg" width="32">
-        </a>
-    </div>
-
-</div>
+<a href="https://www.linkedin.com/in/erickowicaksono/">
+    <img src="./assets/linkedin-logo.svg" width="32">
+</a> 
+<a href="https://t.me/erickow">
+    <img src="./assets/telegram-logo.svg" width="32">
+</a>
+<a href="mailto::ericko.wicaksono@gmail.com">
+    <img src="./assets/gmail-logo.svg" width="32">
+</a>
 
 #### Some fun project tech
 
